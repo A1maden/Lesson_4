@@ -1,0 +1,80 @@
+
+
+ul
+{
+	background: #fafafa;
+	font-family: Abadi MT Condensed Light;
+	font-size: 10px;
+	color: #c24ef6;
+	width: 450px;
+	height: 40px;
+	box-sizing: border-box;
+	padding-top: 9px;
+}
+
+li
+{
+	display: inline-block;
+
+}
+
+.pages_nomber_deeper_5, .pages_nomber_deeper_6, 
+.pages_nomber_deeper_8, 
+.pages_nomber_deeper_9, .pages_nomber_deeper_10, 
+.pages_nomber_deeper_11, .pages_nomber_deeper_12
+{
+	width: 23px;
+	height: 23px;
+	box-sizing: border-box;
+	text-align: center;
+	border:1px solid #dddddd;
+	background: #fafafa;
+	padding-top: 5px;
+	border-radius: 5px;
+
+	/*
+	еще один вариант :);
+	border-radius: 54px 7px 70px 197px;
+    -moz-border-radius: 54px 7px 70px 197px;
+    -webkit-border-radius: 54px 7px 70px 197px;*/
+}
+
+.pages_nomber_deeper_9
+{
+	background: #c24ef6;
+	color: white;
+}
+
+
+.pages_nomber_deeper_1
+{
+margin-left: -30px;
+
+}
+
+.pages_nomber_deeper_2, .pages_nomber_deeper_4, 
+.pages_nomber_deeper_14, .pages_nomber_deeper_16
+{
+margin-left: 3px;
+
+}
+
+.pages_nomber_deeper_3, .pages_nomber_deeper_15
+{
+margin-left: 20px;
+
+}
+
+.pages_nomber_deeper_5, .pages_nomber_deeper_13
+{
+margin-left: 15px;
+}
+
+.pages_nomber_deeper_7
+{
+	border:transparent;
+	background: #fafafa;
+	padding: 5px;
+	vertical-align: text-top;
+}
+

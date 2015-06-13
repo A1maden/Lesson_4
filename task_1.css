@@ -1,6 +1,9 @@
 div
 {
 	background: #aa7adb;
+	width: auto;
+	margin-left: -8px;
+	margin-right: -8px;
 }
 
 ul
@@ -9,20 +12,20 @@ ul
 	font-family: Abadi MT Condensed Light;
 	font-size: 20px;
 	color: white;
-	text-align: center;
+	box-sizing: content-box;
+	margin: auto;
 }
 
 li 
 {
-display: inline-block;
-padding: 10px 34px 10px 0px;
+	display: inline-block;
+	padding: 10px 34px 10px 0px;
 }
 
 .menu_travels
 {
-background: #eeeeee;
-color: #a0a0a0;
-position: relative;
-padding-left: 15px;
-padding-right: 15px;
+	background: #eeeeee;
+	color: #a0a0a0;
+	padding-left: 15px;
+	padding-right: 15px;
 }
