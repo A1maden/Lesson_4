@@ -1,15 +1,17 @@
 
 
-ul
+.pagesnumber_deeper
 {
 	background: #fafafa;
 	font-family: Abadi MT Condensed Light;
 	font-size: 10px;
-	color: #c24ef6;
+	color: #9933cc;
 	width: 450px;
 	height: 40px;
 	box-sizing: border-box;
 	padding-top: 9px;
+	margin: auto;
+
 }
 
 li
@@ -18,10 +20,8 @@ li
 
 }
 
-.pages_nomber_deeper_5, .pages_nomber_deeper_6, 
-.pages_nomber_deeper_8, 
-.pages_nomber_deeper_9, .pages_nomber_deeper_10, 
-.pages_nomber_deeper_11, .pages_nomber_deeper_12
+.pagesnumber_deeper_numeric, .pagesnumber_deeper_6,
+.pagesnumber_deeper_0
 {
 	width: 23px;
 	height: 23px;
@@ -32,49 +32,51 @@ li
 	padding-top: 5px;
 	border-radius: 5px;
 
-	/*
-	еще один вариант :);
-	border-radius: 54px 7px 70px 197px;
+	
+	/*еще один вариант :);*/
+/*	border-radius: 54px 7px 70px 197px;
     -moz-border-radius: 54px 7px 70px 197px;
     -webkit-border-radius: 54px 7px 70px 197px;*/
 }
 
-.pages_nomber_deeper_9
+.pagesnumber_deeper_6
 {
-	background: #c24ef6;
+	background: #9933cc;
 	color: white;
 }
 
 
-.pages_nomber_deeper_1
+.pagesnumber_deeper_1
 {
-margin-left: -30px;
+	margin-left: -30px;
 
 }
 
-.pages_nomber_deeper_2, .pages_nomber_deeper_4, 
-.pages_nomber_deeper_14, .pages_nomber_deeper_16
+.pagesnumber_deeper_2, .pagesnumber_deeper_4, 
+.pagesnumber_deeper_8, .pagesnumber_deeper_10
 {
-margin-left: 3px;
+	margin-left: 3px;
 
 }
 
-.pages_nomber_deeper_3, .pages_nomber_deeper_15
+.pagesnumber_deeper_3, .pagesnumber_deeper_9, 
+.pagesnumber_deeper_0
 {
-margin-left: 20px;
+	margin-left: 20px;
 
 }
 
-.pages_nomber_deeper_5, .pages_nomber_deeper_13
+.pagesnumber_deeper_7
 {
-margin-left: 15px;
+	margin-left: 15px;
 }
 
-.pages_nomber_deeper_7
+.pagesnumber_deeper_5
 {
 	border:transparent;
 	background: #fafafa;
 	padding: 5px;
 	vertical-align: text-top;
 }
+
 

@@ -1,4 +1,4 @@
-div
+.container
 {
 	background: #aa7adb;
 	width: auto;
@@ -11,6 +11,7 @@ div
 
 .menu
 {
+	
 	width: 900px;
 	font-family: Abadi MT Condensed Light;
 	font-size: 20px;
@@ -19,10 +20,11 @@ div
 	box-sizing: content-box;
 }
 
-span
+li
 {
-float: left;
-padding: 10px 34px 10px 0px;
+	display: inline-block;
+	float: left;
+	padding: 10px 34px 10px 0px;
 }
 	
 .menu_travels
